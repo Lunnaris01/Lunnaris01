@@ -36,7 +36,7 @@ Always happy to 🤝 collaborate on interesting projects!
 
 ---
 
-📬 **Let’s Connect**: [Email](Julian_Ullrich@live.de) | [LinkedIn](https://www.linkedin.com/in/julian-ullrich-bb534b33a/) |
+📬 **Let’s Connect**: [Email](Julian_Ullrich@live.de) | [LinkedIn](https://www.linkedin.com/in/julian-ullrich-bb534b33a/)
 
 ---
 
