@@ -33,7 +33,7 @@ Always happy to 🤝 collaborate on interesting projects!
 ## 🌟 **Projects**  
 1. **CivAPI**: REST API in Go.  
 2. **XAIEV**: Comparison Framework for XAI Methods.
-
+3. **Arcanum-Valley**: Cozy 2d Game as fun side project.
 ---
 
 📬 **Let’s Connect**: [Email](Julian_Ullrich@live.de) | [LinkedIn](https://www.linkedin.com/in/julian-ullrich-bb534b33a/)
