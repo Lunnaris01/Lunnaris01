@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 ### Backend Engineering 🛠️ | AI & Data Science 🧠 | XAI 
 
 I build scalable systems in **Go** and craft intelligent solutions with **Python**.
+
 Passionate about **AI** and understanding the ⬛ using **XAI** 🕵️.
+
 Always happy to 🤝 collaborate on interesting projects!
 
 ---
