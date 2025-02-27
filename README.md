@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I’m Julian 
-### Backend Engineer 🛠️ | AI & Data Science Enthusiast 🧠  
+### Backend Engineering 🛠️ | AI & Data Science 🧠 | XAI 
 
-I build scalable systems in **Go** and craft intelligent solutions with **Python**. Passionate about **AI** and making the Black Box ⬛ more interpretable with **XAI**.
+I build scalable systems in **Go** and craft intelligent solutions with **Python**. Passionate about **AI** and gaining a deeper understanding of explanations using **XAI** 🕵️.
 Always happy to 🤝 collaborate on interesting projects!
 
 ---
