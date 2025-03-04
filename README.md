@@ -20,7 +20,7 @@ Always happy to 🤝 collaborate on interesting projects!
 
 ## 🛠️ **Tech Stack**  
 - **Backend**: Go, Flask, PostgreSQL, Sqlite, Docker, CI/CD  
-- **AI/ML**: Python, PyTorch, Pandas
+- **AI/ML**: Python, PyTorch, Pandas, OpenCV
 ---
 
 ## 🌟 **Projects**  
@@ -30,7 +30,3 @@ Always happy to 🤝 collaborate on interesting projects!
 ---
 
 📬 **Let’s Connect**: [Email](Julian_Ullrich@live.de) | [LinkedIn](https://www.linkedin.com/in/julian-ullrich-bb534b33a/)
-
----
-
-*“Any sufficiently advanced technology is indistinguishable from magic.”* – Arthur C. Clarke  
