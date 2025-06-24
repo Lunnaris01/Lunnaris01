@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi, I’m Julian 
-### Backend Engineering 🛠️ | AI & Data Science 🧠 | XAI 
+### Backend Engineering 🛠️ | AI & Data Science 🧠 | Database Administration
 
 I build scalable systems in **Go** and craft intelligent solutions with **Python**.
 
-Passionate about **AI** and understanding the ⬛ using **XAI** 🕵️.
+Currently working as Database Administrator using Oracle and Postgresql
 
 Always happy to 🤝 collaborate on interesting projects!
 
