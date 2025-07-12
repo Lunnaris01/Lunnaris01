@@ -16,6 +16,8 @@ Currently working as Database Administrator using Oracle and Postgresql
 
 Always happy to 🤝 collaborate on interesting projects!
 
+Shout out to [boot.dev](boot.dev) for providing an amazing backend programming track available in GO and TS with very in depth content and a great hands on approach!
+
 ---
 
 ## 🛠️ **Tech Stack**  
