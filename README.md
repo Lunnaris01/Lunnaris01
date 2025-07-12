@@ -21,7 +21,7 @@ Shout out to [boot.dev](boot.dev) for providing an amazing backend programming t
 ---
 
 ## 🛠️ **Tech Stack**  
-- **Backend**: Go, Flask, PostgreSQL, Sqlite, Docker, CI/CD  
+- **Backend**: Go, Flask, PostgreSQL, Oracle, MariaDB, Sqlite, Docker, Kubernetes, CI/CD  
 - **AI/ML**: Python, PyTorch, Pandas, OpenCV
 ---
 
